@@ -1,3 +1,3 @@
 module github.com/sharjeel3/gin_vercel
 
-go 1.15
+go 1.22.2
